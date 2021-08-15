@@ -4,3 +4,4 @@ Olá, bem vindo ao livro de receitas :smile:
 
 - Batata Recheada
 - Pavê
+- Galinha frita
